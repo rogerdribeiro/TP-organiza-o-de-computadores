@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/rogerd/OS/Program Files (x86)/Atalho para Rogerd/Computer Science/5 PERIODO/Org.Computadores/TP3/TP3_versao2/GeradorDeInstrucoes.h
+tamanhoMemorias.h
+/media/rogerd/OS/Program Files (x86)/Atalho para Rogerd/Computer Science/5 PERIODO/Org.Computadores/TP3/TP3_versao2/tamanhoMemorias.h
+iostream
+-
+vector
+-
+fstream
+-
+cstdlib
+-
+cstring
+-
+ctime
+-
+
+/media/rogerd/OS/Program Files (x86)/Atalho para Rogerd/Computer Science/5 PERIODO/Org.Computadores/TP3/TP3_versao2/main.cpp
+iostream
+-
+algorithm
+-
+vector
+-
+time.h
+/media/rogerd/OS/Program Files (x86)/Atalho para Rogerd/Computer Science/5 PERIODO/Org.Computadores/TP3/TP3_versao2/time.h
+fstream
+-
+iomanip
+-
+tamanhoMemorias.h
+/media/rogerd/OS/Program Files (x86)/Atalho para Rogerd/Computer Science/5 PERIODO/Org.Computadores/TP3/TP3_versao2/tamanhoMemorias.h
+GeradorDeInstrucoes.h
+/media/rogerd/OS/Program Files (x86)/Atalho para Rogerd/Computer Science/5 PERIODO/Org.Computadores/TP3/TP3_versao2/GeradorDeInstrucoes.h
+
+/media/rogerd/OS/Program Files (x86)/Atalho para Rogerd/Computer Science/5 PERIODO/Org.Computadores/TP3/TP3_versao2/tamanhoMemorias.h
+

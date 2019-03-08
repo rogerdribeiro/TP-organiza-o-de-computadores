@@ -1,0 +1,3 @@
+/media/rogerd/OS/Program Files (x86)/Atalho para Rogerd/Computer Science/5 PERIODO/Org.Computadores/TP3/TP3_versao2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/rogerd/OS/Program Files (x86)/Atalho para Rogerd/Computer Science/5 PERIODO/Org.Computadores/TP3/TP3_versao2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/rogerd/OS/Program Files (x86)/Atalho para Rogerd/Computer Science/5 PERIODO/Org.Computadores/TP3/TP3_versao2/cmake-build-debug/CMakeFiles/TP3_versao2.dir
